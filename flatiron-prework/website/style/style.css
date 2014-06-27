@@ -1,0 +1,68 @@
+/* Style for my website */
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+#links {
+	font-size: 20px;
+	padding-top: 40px;
+	padding-left: 500px;
+	
+
+} 
+
+header {
+	font-size: 30px;
+	font-family:'Lobster', cursive;
+	font-weight: 700;
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  padding-left: 300px;
+  padding-right: 300px;
+  text-decoration: underline;
+
+}
+#cener2 {
+	font-size: 50px;
+	font-family:'Lobster', cursive;
+	font-weight: 700;
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+	padding-left: 500px;
+	padding-right: 500px;
+
+}
+#center{
+	font-size: 30px;
+	font-family:'Lobster', cursive;
+	font-weight: 700;
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+	padding-left: 500px;
+	padding-right: 500px;
+}
+
+#subheader {
+	font-size: 40px;
+	color: blue;
+	text-decoration: underline;
+}
+#top {
+    background:url("../images/Blogger-Header-8.jpg") 
+    no-repeat;
+    position: top;
+    width: 1080px;
+    height: 100px;
+
+}
+
+body {
+	background-color:rgb(227,255,224); 	
+}
